@@ -1,2 +1,2 @@
 # Profilepage
-# Profilepage website using CSS HTML and JavaScript 
+# website using CSS HTML and JavaScript 
